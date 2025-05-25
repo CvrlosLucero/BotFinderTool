@@ -320,4 +320,4 @@ Escuela de Ingeniería, Ciencia y Tecnología
 
 ---
 
-**© 2024 - BotFinderTool - Sistema Unificado de Detección de Bots**
+**© 2025 - BotFinderTool - Sistema Unificado de Detección de Bots**
