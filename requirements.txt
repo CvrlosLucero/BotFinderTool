@@ -1,0 +1,36 @@
+# Análisis de grafos y redes sociales
+networkx>=3.0
+python-louvain>=0.16
+cdlib>=0.3.0
+
+# Manipulación y análisis de datos
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+scipy>=1.10.0
+
+# Visualización
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Utilidades
+tqdm>=4.65.0
+jupyter>=1.0.0
+
+# Opcional: Para análisis avanzados
+# python-igraph>=0.10.0  # Descomente si necesita igraph 
+
+# Paquetes adicionales para métodos crisp de detección de comunidades
+leidenalg>=0.10.0
+python-igraph>=0.10.0
+infomap>=2.7.0
+wurlitzer>=3.0.0
+pyclustering>=0.10.0
+
+# Nota: bayanpy, ASLPAw y graph_tool pueden requerir instalación especial en Windows
+# bayanpy>=0.1.0
+# ASLPAw>=0.1.0  
+# graph_tool>=2.45  # Muy difícil de instalar en Windows 
